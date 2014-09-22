@@ -1,5 +1,6 @@
 #include <iostream.h>
 #include <conio.h>
+#include <apapun.h>
 
 void v_tampil(int A[5],int N);
 
